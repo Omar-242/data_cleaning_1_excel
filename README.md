@@ -254,17 +254,14 @@ Excel-Data-Cleaning/
 
 ## Raw Table
 
-```markdown
 ![Raw Dataset](Screenshots/raw_dataset.png)
-```
+
 
 ---
 
 ## Cleaned Table
 
-```markdown
 ![Cleaned Dataset](Screenshots/clean_dataset.png)
-```
 
 ---
 
