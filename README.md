@@ -244,7 +244,7 @@ Excel-Data-Cleaning/
 ├── dataset.xlsx
 ├── Screenshots/
 │   ├── raw_dataset.png
-│   └── cleaned_dataset.png
+│   └── clean_dataset.png
 └── README.md
 ```
 
@@ -263,7 +263,7 @@ Excel-Data-Cleaning/
 ## Cleaned Table
 
 ```markdown
-![Cleaned Dataset](Screenshots/cleaned_dataset.png)
+![Cleaned Dataset](Screenshots/clean_dataset.png)
 ```
 
 ---
